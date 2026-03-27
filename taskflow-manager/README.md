@@ -100,6 +100,3 @@ Create or update `.vscode/settings.json`:
 - `vite.config.ts`: Vite configuration.
 - `tailwind.config.js`: Tailwind CSS configuration.
 
-## License
-
-This project is licensed under the MIT License.

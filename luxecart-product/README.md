@@ -43,7 +43,7 @@ npm install
 ### 3. Environment Variables
 Create a `.env` file in the root directory and add your keys (refer to `.env.example`):
 ```env
-GEMINI_API_KEY=your_gemini_api_key_here
+API_KEY=your_api_key_here
 APP_URL=http://localhost:3000
 ```
 
@@ -69,7 +69,3 @@ The production-ready files will be generated in the `dist/` folder.
 - `src/pages/`: Main application pages (Home, ProductList, Cart, etc.)
 - `src/lib/`: Utility functions and helpers
 - `src/types.ts`: TypeScript interfaces and types
-
-## 📄 License
-
-This project is licensed under the Apache-2.0 License.
