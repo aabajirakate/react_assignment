@@ -9,29 +9,6 @@ A modern, full-stack task management application built with React, Vite, Express
 - **Authentication**: Secure login and session management.
 - **Modern UI**: Bento Grid layout, glassmorphism effects, and smooth animations.
 
-## Demo Screenshots
-
-Here is a look at the modern UI of TaskFlow Manager:
-
-### 1. Modern Login Experience
-A sleek, split-screen login page with dynamic gradients and glassmorphism effects.
-![Login Page](https://picsum.photos/seed/taskflow-login/1200/600?blur=1)
-
-### 2. Bento Grid Dashboard
-An intuitive overview of your productivity with real-time statistics and critical focus items.
-![Dashboard](https://picsum.photos/seed/taskflow-dashboard/1200/600)
-
-### 3. Task Management
-A clean and organized grid layout for managing your daily tasks with ease.
-![Tasks List](https://picsum.photos/seed/taskflow-tasks/1200/600)
-
-## Tech Stack
-
-- **Frontend**: React 19, Vite, Tailwind CSS, Motion (framer-motion).
-- **Backend**: Express.js.
-- **Icons**: Lucide React.
-- **Language**: TypeScript.
-
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
